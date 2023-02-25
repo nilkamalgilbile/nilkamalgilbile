@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilkamal-gilbile-507051229/)](https://www.linkedin.com/in/nilkamal-gilbile-507051229/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.nilkamal)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/21286910/nilkamal-gilbile)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-NilkamalGilbile-red)](https://www.youtube.com/nilkamalgilbile)
+[![Linkedin Badge](https://img.shields.io/badge/-Nilkamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilkamal-gilbile-507051229/)](https://www.linkedin.com/in/nilkamal-gilbile-507051229/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Nilkamal-green)](https://www.nilkamal)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nilkamal-yellow)](https://stackoverflow.com/users/21286910/nilkamal-gilbile)
 
 I'm
 Full Stack Solution Architect
@@ -144,7 +144,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=nilkamalgilbile&theme=react-dark&area=true)
 <!--
-**nilkamalgilbile/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nilkamalgilbile/nilkamalgilbile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
