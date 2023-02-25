@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nilkamal-yellow)](https://stackoverflow.com/users/21286910/nilkamal-gilbile)
 
 I'm
-Web Developer
+Web Developer.
 I am a M.Sc Computer Science graduate looking to grow as a professional.I am currently doing Full Stack Web Development Internship Program from Edureka (Online). I did my internship at Comtranse Technology, Kolhapur as a Web Developer Intern. I have worked as a Web Developer for six months at Comtranse Technology, Kolhapur. JavaScript, HTML5, CSS3, Bootstrap5, MySQL are my top strengths. I am also familiar with React. 
 
 
