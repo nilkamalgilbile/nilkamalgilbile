@@ -6,8 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Nilkamal-yellow)](https://stackoverflow.com/users/21286910/nilkamal-gilbile)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Web Developer
+I am a M.Sc Computer Science graduate looking to grow as a professional.I am currently doing Full Stack Web Development Internship Program from Edureka (Online). I did my internship at Comtranse Technology, Kolhapur as a Web Developer Intern. I have worked as a Web Developer for six months at Comtranse Technology, Kolhapur. JavaScript, HTML5, CSS3, Bootstrap5, MySQL are my top strengths. I am also familiar with React. 
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nilkamalgilbile/count.svg)
